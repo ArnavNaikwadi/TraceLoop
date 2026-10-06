@@ -1,4 +1,4 @@
-# CodeReview AI (`code-review-assistant`)
+# TraceLoop (`code-review-assistant`)
 
 A production-grade, token-efficient AI Code Review, Debugging, and Explanation web application built in GitHub Dark IDE style.
 
